@@ -58,14 +58,14 @@ Remember :
 | $ git checkout -b <branch> | Creates a new branch and switches to it |
 | $ git merge <branch> | Merge joins branches together |
 | $ git merge --abort | abort the merge action (In case of merge conflict) |
-| $ git log --graph --oneline | This shows a summarized view of the commit history for a repo |
+| $ git log --graph --oneline | This shows a summarized view of the commit history for a repository |
 	
 
 ## Interaction with Remote Repository
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
-| $ git push | Git push is used to push commits from your local repo to a remote repo |          
+| $ git push | Git push is used to push commits from your local repo to a remote repository |          
 | $ git pull | Git pull is used to fetch the newest updates from a remote repository |  
 
 
@@ -73,9 +73,9 @@ Remember :
 
 | Syntax | Description |                        
 | :--- | :--- |                                                                                
-| $ git remote | Lists remote repos |          
+| $ git remote | Lists remote repository |          
 | $ git remote -v | List remote repos verbosely | 
-| $ git remote show <name> | Describes a single remote repo |
+| $ git remote show <name> | Describes a single remote repository |
 | $ git remote update | Fetches the most up-to-date objects |
 | $ git fetch | Downloads specific objects |
 | $ git branch -r | Lists remote branches; can be combined with other branch arguments to manage remote branches |
