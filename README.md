@@ -1,4 +1,4 @@
-# Ultimate Git Cheat Sheet , Author :<a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">PaareshC</a> PaareshC 
+# Ultimate Git Cheat Sheet , Author :<a href="https://docs.google.com/document/d/12X5o6uz365aWEkW2OPLOIsLKHzQLj-YN/edit?usp=sharing&ouid=104004897154576440625&rtpof=true&sd=true">PaareshC</a>  
 ===========================================================
 
 Remember :
